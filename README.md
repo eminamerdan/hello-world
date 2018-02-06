@@ -1,2 +1,3 @@
 # hello-world
-test
+BSc Genetic Engineering
+MSc Bioinformatics
